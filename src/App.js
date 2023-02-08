@@ -39,7 +39,7 @@ function App() {
           <div className="icons">
           <a href="https://www.instagram.com/procreate_designe/">
             <span>
-              <FontAwesomeIcon icon={faInstagram} />
+              <FontAwesomeIcon icon={faInstagram}/>
             </span></a>
             <a href="https://www.facebook.com/promila.ghosh98?mibextid=ZbWKwL">
             <span>
